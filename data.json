@@ -1,0 +1,150 @@
+[
+    {
+        "id": 1,
+        "brandName": "PUMA",
+        "image": "https://rukminim2.flixcart.com/image/128/128/kjhgzgw0-0/shoe/h/p/j/339934-13-puma-white-white-original-imafzfgfhvy6yp5f.jpeg?q=70",
+        "productName": "Product: BMW MMS Drift Cat 8 Sneakers For Men ",
+        "varient": [
+            {
+                "color": "white",
+                "images": [
+                    "https://rukminim2.flixcart.com/image/128/128/kjhgzgw0-0/shoe/h/p/j/339934-13-puma-white-white-original-imafzfgfhvy6yp5f.jpeg?q=70",
+                    "https://rukminim2.flixcart.com/image/128/128/kjhgzgw0-0/shoe/d/h/h/339934-13-puma-white-white-original-imafzfgfncebhveq.jpeg?q=70",
+                    "https://rukminim2.flixcart.com/image/128/128/kjhgzgw0-0/shoe/l/s/o/339934-13-puma-white-white-original-imafzfgfurv469eb.jpeg?q=70",
+                    "https://rukminim2.flixcart.com/image/128/128/kjhgzgw0-0/shoe/5/9/b/339934-13-puma-white-white-original-imafzfgfqkqctrva.jpeg?q=70",
+                    "https://rukminim2.flixcart.com/image/128/128/kjhgzgw0-0/shoe/b/i/x/339934-13-puma-white-white-original-imafzfgf2wgaajgq.jpeg?q=70",
+                    "https://rukminim2.flixcart.com/image/128/128/kjhgzgw0-0/shoe/u/6/w/339934-13-puma-white-white-original-imafzfgfs2z3qste.jpeg?q=70",
+                    "https://rukminim2.flixcart.com/image/128/128/kura1e80/shoe/y/w/m/13-339934-13-puma-white-white-original-imag7suykjvhzge6.jpeg?q=70"
+                ],
+                "sizes": [
+                    {
+                        "size": 6,
+                        "price": 500,
+                        "mrp": 1000,
+                        "discount_in_percentage": 50,
+                        "in_stock": true
+                    },
+                    {
+                        "size": 7,
+                        "price": 500,
+                        "mrp": 1000,
+                        "discount_in_percentage": 50,
+                        "in_stock": true
+                    },
+                    {
+                        "size": 8,
+                        "price": 500,
+                        "mrp": 1000,
+                        "discount_in_percentage": 50,
+                        "in_stock": true
+                    },
+                    {
+                        "size": 9,
+                        "price": 500,
+                        "mrp": 1000,
+                        "discount_in_percentage": 50,
+                        "in_stock": true
+                    },
+                    {
+                        "size": 10,
+                        "price": 500,
+                        "mrp": 1000,
+                        "discount_in_percentage": 50,
+                        "in_stock": true
+                    },
+                    {
+                        "size": 11,
+                        "price": 500,
+                        "mrp": 1000,
+                        "discount_in_percentage": 50,
+                        "in_stock": true
+                    },
+                    {
+                        "size": 12,
+                        "price": 500,
+                        "mrp": 1000,
+                        "discount_in_percentage": 50,
+                        "in_stock": true
+                    },
+                    {
+                        "size": 13,
+                        "price": 500,
+                        "mrp": 1000,
+                        "discount_in_percentage": 50,
+                        "in_stock": false
+                    }
+                ]
+            },
+            {
+                "color": "black",
+                "images": [
+                    "https://rukminim2.flixcart.com/image/128/128/kjhgzgw0-0/shoe/3/3/h/339934-12-puma-black-black-original-imafzfgfnfmgqtyp.jpeg?q=70",
+                    "https://rukminim2.flixcart.com/image/128/128/kjhgzgw0-0/shoe/s/j/m/339934-12-puma-black-black-original-imafzfgfs6wb7gzp.jpeg?q=70",
+                    "https://rukminim2.flixcart.com/image/128/128/kjhgzgw0-0/shoe/w/b/t/339934-12-puma-black-black-original-imafzfgfgpjackee.jpeg?q=70",
+                    "https://rukminim2.flixcart.com/image/128/128/kjhgzgw0-0/shoe/6/m/h/339934-12-puma-black-black-original-imafzfgfzt2arzzg.jpeg?q=70",
+                    "https://rukminim2.flixcart.com/image/128/128/kjhgzgw0-0/shoe/g/3/p/339934-12-puma-black-black-original-imafzfgfv9vxtgg9.jpeg?q=70",
+                    "https://rukminim2.flixcart.com/image/128/128/kjhgzgw0-0/shoe/n/3/9/339934-12-puma-black-black-original-imafzfgfuzkznmcu.jpeg?q=70",
+                    "https://rukminim2.flixcart.com/image/128/128/kura1e80/shoe/9/3/l/8-5-339934-8-5-puma-black-black-original-imag7suyhg7tjgfn.jpeg?q=70"
+                ],
+                "sizes": [
+                    {
+                        "size": 6,
+                        "price": 500,
+                        "mrp": 1000,
+                        "discount_in_percentage": 50,
+                        "in_stock": true
+                    },
+                    {
+                        "size": 7,
+                        "price": 500,
+                        "mrp": 1000,
+                        "discount_in_percentage": 50,
+                        "in_stock": true
+                    },
+                    {
+                        "size": 8,
+                        "price": 500,
+                        "mrp": 1000,
+                        "discount_in_percentage": 50,
+                        "in_stock": true
+                    },
+                    {
+                        "size": 9,
+                        "price": 500,
+                        "mrp": 1000,
+                        "discount_in_percentage": 50,
+                        "in_stock": true
+                    },
+                    {
+                        "size": 10,
+                        "price": 500,
+                        "mrp": 1000,
+                        "discount_in_percentage": 50,
+                        "in_stock": true
+                    },
+                    {
+                        "size": 11,
+                        "price": 500,
+                        "mrp": 1000,
+                        "discount_in_percentage": 50,
+                        "in_stock": true
+                    },
+                    {
+                        "size": 12,
+                        "price": 500,
+                        "mrp": 1000,
+                        "discount_in_percentage": 50,
+                        "in_stock": true
+                    },
+                    {
+                        "size": 13,
+                        "price": 500,
+                        "mrp": 1000,
+                        "discount_in_percentage": 50,
+                        "in_stock": true
+                    }
+                ]
+            }
+        ]
+    }
+]
